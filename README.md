@@ -1,4 +1,17 @@
-### Hi there 👋
+### LENIN FERNANDO PATIÑO 
+
+## Mechatronic Engineer and Front End Developer
+
+I'm currently working as a teacher however I've been studying for 4 years differents tool to develop web apps.
+Nowdays I think I have enought skills to develop web apps.
+
+## SKILLS:
+- Angular
+- Javascript
+- Css
+- Html
+- Github
+
 
 <!--
 **ingeleninwebdeveloper/ingeleninwebdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
